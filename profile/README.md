@@ -4,7 +4,6 @@
 
 Stellular services. Mostly Markdown stuff.
 
-* [Stellular](https://stellular.net) ([source](https://github.com/stellularorg/bundlrs))
 * [Vibrant](https://stellular.org) ([source](https://github.com/stellularorg/vibrant))
 * [Crangon](https://crgn.cc) ([source](https://github.com/stellularorg/crangon))
 * [Guppy](https://orion.stellular.net) ([source](https://github.com/stellularorg/guppy))
